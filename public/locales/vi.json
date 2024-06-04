@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "jewelry": "Trang sức & Phụ kiện",
+    "clothing": "Quần áo & Giày dép",
+    "home": "Nhà cửa & Đời sống",
+    "wedding": "Cưới hỏi & Tiệc tùng",
+    "toys": "Đồ chơi & Giải trí",
+    "art": "Nghệ thuật & Sưu tầm",
+    "craft": "Dụng cụ & Vật liệu làm thủ công",
+    "account": "Tài khoản",
+    "shopping": "Mua sắm"
+  },
+  "banner": {
+    "title": "Bộ sưu tập",
+    "description": "Bạn có thể khám phá và mua sắm nhiều bộ sưu tập khác nhau từ các thương hiệu khác nhau tại đây.",
+    "buttonText": "Mua ngay"
+  },
+  "bestseller": {
+    "title": "Bán chạy nhất",
+    "description": "Khám phá những sản phẩm phổ biến nhất của chúng tôi, được khách hàng lựa chọn vì chất lượng xuất sắc và thiết kế độc đáo. Mua sắm ngay để tìm những mặt hàng hoàn hảo đã chiếm được cảm tình của nhiều người.",
+    "loading": "Đang tải..."
+  },
+  "category":{
+    "explore": "Khám phá phong cách mới và phổ biến"
+  },
+  "zara":{
+    "content": "Rực rỡ nhưng không kém phần tinh tế. Bộ sưu tập trang phục dạ hội mới được cung cấp độc quyền tại cửa hàng Giorgio Armani Boutique mới mở lại ở Los Angeles.",
+    "button": "Xem bộ sưu tập"
+  },
+  "info":{
+    "title": "Xem Thông Tin Sản Phẩm",
+    "allProduct": "Tất Cả",
+    "clothing": "Thời Trang",
+    "hoodie": "Hoodies",
+    "bags": "Túi",
+    "default": "Mặc Định",
+    "low-hight":"Cao Đến Thấp",
+    "hight-low": "Thấp Đến Cao"
+  },
+  "orther":{
+    "followIg": "Theo Dõi Sản Phẩm Và Giảm Giá Trên Instagram",
+    "mail":"Hoặc Đăng Ký Nhận Bản Tin",
+    "place":"Địa Chỉ Email...",
+    "button":"Gửi",
+    "yourName": "Tên của bạn...",
+    "yourEmail": "Email của bạn...",
+    "message":"Nội dung...",
+    "successMessage":"Cảm ơn bạn, Email của bạn đã được gửi thành công!!",
+    "errorMessage": "Xin lỗi, email của bạn chưa được gửi thành công!!"
+  },
+  "footer": {
+    "aboutUs": "Về chúng tôi",
+    "aboutUsContent": "Chúng tôi cam kết cung cấp những sản phẩm chất lượng nhất và dịch vụ tốt nhất cho khách hàng của mình. Với một đội ngũ chuyên nghiệp và nhiệt huyết, chúng tôi luôn sẵn lòng phục vụ và đáp ứng mọi nhu cầu của quý khách. Hãy cùng trải nghiệm sự khác biệt và độc đáo mà chúng tôi mang lại!",
+    "catalog": "Danh mục",
+    "necklaces": "Dây chuyền",
+    "hoodies": "Áo Hoodie",
+    "jewelryBox": "Hộp đựng trang sức",
+    "tShirt": "Áo thun",
+    "jacket": "Áo khoác",
+    "customerServices": "Dịch vụ khách hàng",
+    "contactUs": "Liên hệ",
+    "trackYourOrder": "Theo dõi đơn hàng",
+    "productCareRepair": "Bảo dưỡng & Sửa chữa sản phẩm",
+    "bookAnAppointment": "Đặt lịch hẹn",
+    "shippingReturns": "Vận chuyển & Đổi trả",
+    "copyright": "© {{currentYear}} Coral, Công ty"
+  },
+  "home": "Trang chủ",
+  "shop": "Cửa hàng",
+  "quantity": "Số lượng",
+  "confirmOrder": "Xác nhận đơn hàng",
+  "productDescription": "Sản phẩm này được làm từ những vật liệu tốt nhất, đảm bảo trải nghiệm cao cấp. Nó được thiết kế để cung cấp cả sự thoải mái và độ bền, là một lựa chọn tuyệt vời cho những ai trân trọng chất lượng.",
+  "additionalInfo": "Hướng dẫn chăm sóc: Chỉ giặt tay. Không tẩy. Phơi khô trong bóng râm. Dùng bàn ủi mát nếu cần. Tránh tiếp xúc với các bề mặt thô để duy trì độ bền của vải."
+}

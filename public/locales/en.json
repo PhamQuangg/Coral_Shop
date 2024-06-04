@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "jewelry": "Jewelry & Accessories",
+    "clothing": "Clothing & Shoes",
+    "home": "Home & Living",
+    "wedding": "Wedding & Party",
+    "toys": "Toys & Entertainment",
+    "art": "Art & Collectibles",
+    "craft": "Craft Supplies & Tools",
+    "account": "Account",
+    "shopping": "Shopping"
+  },
+  "banner": {
+    "title": "Collections",
+    "description": "You can explore and shop many different collections from various brands here.",
+    "buttonText": "Shop Now"
+  },
+  "bestseller": {
+    "title": "Best Sellers",
+    "description": "Discover our most popular products, chosen by our customers for their exceptional quality and unique designs. Shop now to find the perfect items that have captured the hearts of many.",
+    "loading": "Loading..."
+  },
+  "category":{
+    "explore": "Explore new and popular styles"
+  },
+  "zara":{
+    "content": "Lustrous Yet Understated. The New Evening Wear Collection Exclusively Offered At The Reopened Giorgio Armani Boutique In Los Angeles.",
+    "button": "See Collection"
+  },
+  "info":{
+    "title": "View Product Information",
+    "allProduct": "All Product",
+    "clothing": "Clothing",
+    "hoodie": "Hoodies",
+    "bags": "Bags",
+    "default": "Default",
+    "low-hight":"Low to Hight",
+    "hight-low": "Hight to Low"
+  },
+  "orther":{
+    "followIg": "Follow Products And Discounts On Instagram",
+    "mail":"Or Subscribe To The Newsletter",
+    "place":"Email address...",
+    "button":"Submit",
+    "yourName": "Your Name...",
+    "yourEmail": "Your Email...",
+    "message":"Message...",
+    "successMessage":"Thank you, Your email has been sent successfully!!",
+    "errorMessage": "Sorry, your email has not been sent successfully!!"
+  },
+  "footer": {
+    "aboutUs": "About Us",
+    "aboutUsContent": "We are committed to providing the highest quality products and the best services to our customers. With a professional and enthusiastic team, we are always ready to serve and meet all your needs. Let's experience the difference and uniqueness that we bring!",
+    "catalog": "Catalog",
+    "necklaces": "Necklaces",
+    "hoodies": "Hoodies",
+    "jewelryBox": "Jewelry Box",
+    "tShirt": "T-Shirt",
+    "jacket": "Jacket",
+    "customerServices": "Customer Services",
+    "contactUs": "Contact Us",
+    "trackYourOrder": "Track Your Order",
+    "productCareRepair": "Product Care & Repair",
+    "bookAnAppointment": "Book an Appointment",
+    "shippingReturns": "Shipping & Returns",
+    "copyright": "© {{currentYear}} Coral, Inc."
+  },
+  "home": "Home",
+  "shop": "Shop",
+  "quantity": "Quantity",
+  "confirmOrder": "Confirm Order",
+  "productDescription": "This product is crafted from the finest materials, ensuring a premium experience. It's designed to provide both comfort and durability, making it an excellent choice for those who appreciate quality.",
+  "additionalInfo": "Care instructions: Hand wash only. Do not bleach. Line dry in shade. Use a cool iron if necessary. Avoid contact with rough surfaces to maintain the integrity of the fabric."
+}
