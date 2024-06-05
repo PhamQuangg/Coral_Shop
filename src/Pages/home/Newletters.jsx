@@ -55,6 +55,7 @@ const Newletters = () => {
           <input 
             type="text" 
             name="name" 
+            required
             placeholder={t('orther.yourName')} 
             className="w-full mb-4 px-4 py-2 rounded-md border border-gray-300 focus:outline-none focus:ring focus:border-orange-500"
           />
@@ -62,6 +63,7 @@ const Newletters = () => {
           <input 
             type="email" 
             name="email" 
+            required
             placeholder={t('orther.yourEmail')} 
             className="w-full mb-4 px-4 py-2 rounded-md border border-gray-300 focus:outline-none focus:ring focus:border-orange-500"
           />
@@ -69,13 +71,14 @@ const Newletters = () => {
           <textarea 
             name="message" 
             placeholder={t('orther.message')}
+            required
             className="w-full mb-4 px-4 py-2 rounded-md border border-gray-300 focus:outline-none focus:ring focus:border-orange-500 h-28"
           />
 
           <input 
             type="submit" 
             value={t('orther.button')} 
-            className="bg-orange-500 hover:bg-orange-600 text-white font-semibold py-2 px-6 rounded-md cursor-pointer"
+            className="bg-black hover:bg-orange-600 text-white font-semibold py-2 px-6 rounded-md cursor-pointer"
           />
 
           {successMessage && <p className="text-green-500 mt-2">{successMessage}</p>}
